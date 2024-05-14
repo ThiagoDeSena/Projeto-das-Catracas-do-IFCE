@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O6l2j52yZ+haXywb/FRa342e2vp4/D/tCsyCvaWPK04GiL+watVTveSkuCrkB989pOuKi4QVPyGF5BOj/fWEgg==",
+  "dgSpecHash": "/qoCR6eef8fuTmB4NQVkgM1oBGOFZbVTdrBfe6ElNRkhdcjY8TTZ14NnqReZTNU8xbbb91UGYuRz0sb9kGbqMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Thiago de sena\\Documents\\GitHub\\Catraca IFCE\\catracaControl.csproj",
+  "projectFilePath": "C:\\Users\\Thiago de sena\\Documents\\GitHub\\Projeto das catracas do IFCE\\Catraca1\\catracaControl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thiago de sena\\.nuget\\packages\\dotenv.net\\3.1.2\\dotenv.net.3.1.2.nupkg.sha512",
     "C:\\Users\\Thiago de sena\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\7.0.4\\microsoft.aspnetcore.connections.abstractions.7.0.4.nupkg.sha512",

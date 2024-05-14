@@ -24,7 +24,7 @@ namespace CatracaControlClient.Services
             var json = JsonConvert.SerializeObject(requestBody);
             var content = new StringContent(json, System.Text.Encoding.UTF8, "application/json");
 
-            var response = await httpClient.PostAsync("https://api-h-2.intranet.maracanau.ifce.edu.br/auth/login", content);
+            var response = await httpClient.PostAsync("API do IF", content);
 
             if (response.IsSuccessStatusCode)
             {
@@ -36,7 +36,7 @@ namespace CatracaControlClient.Services
             {
                 Console.WriteLine("Erro ao fazer a solicitação: " + response.StatusCode);
             }
-            string hubUrl = "wss://api.intranet-h.maracanau.ifce.edu.br/hubs/transito-catraca"; //servidor hub
+            string hubUrl = "wss://API do IF"; //servidor hub
             var connection = new HubConnectionBuilder()
                 .WithUrl(hubUrl, options => {
                     options.AccessTokenProvider = () => Task.FromResult(token);

@@ -4364,11 +4364,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thiago de sena\\Documents\\GitHub\\Catraca IFCE\\catracaControl.csproj",
+      "projectUniqueName": "C:\\Users\\Thiago de sena\\Documents\\GitHub\\Projeto das catracas do IFCE\\Catraca1\\catracaControl.csproj",
       "projectName": "catracaControl",
-      "projectPath": "C:\\Users\\Thiago de sena\\Documents\\GitHub\\Catraca IFCE\\catracaControl.csproj",
+      "projectPath": "C:\\Users\\Thiago de sena\\Documents\\GitHub\\Projeto das catracas do IFCE\\Catraca1\\catracaControl.csproj",
       "packagesPath": "C:\\Users\\Thiago de sena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thiago de sena\\Documents\\GitHub\\Catraca IFCE\\obj\\",
+      "outputPath": "C:\\Users\\Thiago de sena\\Documents\\GitHub\\Projeto das catracas do IFCE\\Catraca1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

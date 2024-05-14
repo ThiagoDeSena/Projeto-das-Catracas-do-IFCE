@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("catracaControl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+186953641b8f6175e3f79a7d1d239c16f59a12b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("catracaControl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("catracaControl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
