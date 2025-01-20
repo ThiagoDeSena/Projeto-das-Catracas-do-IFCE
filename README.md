@@ -58,7 +58,7 @@ informações relevantes ao guarda de segurança responsável pelo monitoramento
 
 ## Explicação do Projeto
 
-[Assista o vídeo aqui para entender o funcionamento do projeto](https://www.linkedin.com/posts/thiago-de-sena-ab5b09179_raspberry-dotnet-net-activity-7188267112476397568-UBgK?utm_source=share&utm_medium=member_desktop)
+[Assista o vídeo aqui para entender o funcionamento do projeto](https://www.linkedin.com/posts/thiago-de-sena-developer_raspberrypi-dotnet-development-activity-7196239443823910916-X7Xw?utm_source=share&utm_medium=member_desktop)
 
 
 ## Benefícios
